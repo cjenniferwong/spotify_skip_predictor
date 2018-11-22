@@ -5,7 +5,7 @@ __pycache__/
 data/*
 .ipynb*
 Untitled*
-
+*.pkl
 
 
 # C extensions
