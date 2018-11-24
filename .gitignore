@@ -6,6 +6,7 @@ data/*
 .ipynb*
 Untitled*
 *.pkl
+*.csv
 
 
 # C extensions
